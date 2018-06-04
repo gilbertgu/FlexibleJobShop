@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Flexible_Job_Shop/src"/>
+	<classpathentry kind="output" path="Flexible_Job_Shop/out/production/Flexible_Job_Shop"/>
+</classpath>
